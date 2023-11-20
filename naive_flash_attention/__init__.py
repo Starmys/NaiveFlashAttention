@@ -1,0 +1,1 @@
+from cutlass_flash_attention.flash_attention import FlashMultiHeadAttention
